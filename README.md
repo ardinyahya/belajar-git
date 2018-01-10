@@ -1,2 +1,2 @@
 # belajar-git
-belajar tentang github
+belajar tentang github sistem informasi
